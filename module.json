@@ -68,5 +68,7 @@
     }
   },
   "protected": false,
-  "manifest": ""
+  "url": "https://github.com/Ephirion/pf2e-kingmaker/releases/tag/latest",
+  "download": "https://github.com/Ephirion/pf2e-kingmaker/archive/refs/tags/latest.zip",
+  "manifest": "https://github.com/Ephirion/pf2e-kingmaker/releases/tag/latest/module.json"
 }
